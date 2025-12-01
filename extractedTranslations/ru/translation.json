@@ -1,4 +1,6 @@
 {
+  "decrement": "decrement",
+  "increment": "increment",
   "sdkgjdk jgkjg djfgk jdfgjsdk flgjs;d fjgsdl kfjg sdfjgk fjgk jfgsljdfg sdfg g dfg dfg df g df gd fgdfg dfgdfgd fg df g": "sdkgjdk jgkjg djfgk jdfgjsdk flgjs;d fjgsdl kfjg sdfjgk fjgk jfgsljdfg sdfg g dfg dfg df g df gd fgdfg dfgdfgd fg df g",
   "throw Error": "throw Error",
   "throw error": "throw error",
@@ -10,7 +12,5 @@
   "Переключить": "Переключить",
   "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
   "Страница не найдена": "Страница не найдена",
-  "Язык": "Язык",
-  "increment": "increment",
-  "decrement": "decrement"
+  "Язык": "Язык"
 }
